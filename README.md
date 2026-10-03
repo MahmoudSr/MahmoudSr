@@ -19,7 +19,7 @@ Front-end developer in Lebanon. I build fast, accessible interfaces with **Angul
 | **[ai-chat-element](https://github.com/MahmoudSr/ai-chat-element)** | Framework-agnostic AI chat UI as a Web Component, with streaming and OpenAI / Anthropic adapters | Lit · TypeScript · npm |
 | **[fastdl](https://github.com/MahmoudSr/fastdl)** | Open-source multi-connection download manager with a browser extension | Tauri · Rust · JavaScript |
 | **[FabriKit](https://fabrikit.store)** | Custom Shopify storefront with an illustrated, animated intro | Shopify · Liquid |
-| **[Ali Srouji](https://github.com/MahmoudSr/ali-srouji-portfolio)** | Cinematic filmmaker portfolio with a 3D camera intro | Three.js · GSAP · Vite |
+| **Ali Srouji** | Cinematic filmmaker portfolio with a 3D camera intro | Three.js · GSAP · Vite |
 
 More on my **[portfolio](https://portfolio-neon-delta-42.vercel.app/projects)**.
 
