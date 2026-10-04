@@ -1,4 +1,4 @@
-<a href="https://portfolio-neon-delta-42.vercel.app">
+<a href="https://mahmoudsrouji.com">
   <img src="assets/banner.jpg" alt="Mahmoud Srouji — Front-end developer building fast, polished web products." width="100%" />
 </a>
 
@@ -21,7 +21,7 @@ Front-end developer in Lebanon. I build fast, accessible interfaces with **Angul
 | **[FabriKit](https://fabrikit.store)** | Custom Shopify storefront with an illustrated, animated intro | Shopify · Liquid |
 | **Ali Srouji** | Cinematic filmmaker portfolio with a 3D camera intro | Three.js · GSAP · Vite |
 
-More on my **[portfolio](https://portfolio-neon-delta-42.vercel.app/projects)**.
+More on my **[portfolio](https://mahmoudsrouji.com/projects)**.
 
 ### Tech
 
@@ -37,7 +37,7 @@ More on my **[portfolio](https://portfolio-neon-delta-42.vercel.app/projects)**.
 
 ### Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-neon-delta-42.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoudsrouji.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudsrouji)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srouji.mahmoud@gmail.com)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mahmoudsrouji)
