@@ -1,5 +1,5 @@
 <a href="https://mahmoudsrouji.com">
-  <img src="assets/banner.jpg" alt="Mahmoud Srouji — Front-end developer building fast, polished web products." width="100%" />
+  <img src="assets/banner.jpg?v=2" alt="Mahmoud Srouji — Front-end developer building fast, polished web products." width="100%" />
 </a>
 
 ### Hi, I'm Mahmoud
